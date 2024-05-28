@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>1</Name>
+    <Surname>1</Surname>
+    <Age>18</Age>
+  </Student>
+  <Student>
+    <Name>12</Name>
+    <Surname>12</Surname>
+    <Age>18</Age>
+  </Student>
+  <Student>
+    <Name>123</Name>
+    <Surname>123</Surname>
+    <Age>19</Age>
+  </Student>
+  <Student>
+    <Name>1234</Name>
+    <Surname>1234</Surname>
+    <Age>20</Age>
+  </Student>
+  <Student>
+    <Name>12345</Name>
+    <Surname>12345</Surname>
+    <Age>18</Age>
+  </Student>
+</ArrayOfStudent>
